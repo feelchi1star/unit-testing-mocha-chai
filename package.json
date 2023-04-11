@@ -1,0 +1,23 @@
+{
+  "name": "unit-testing-mocha-chai",
+  "version": "1.0.0",
+  "description": "Simple Testing using Mocha and chia",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "keywords": [
+    "[\"Testing\"",
+    "\"mocha\"",
+    "\"chai\"",
+    "\"jest\"]"
+  ],
+  "author": "Felix Chinonso Emmanuel <feelchi1star@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "nodemon": "^2.0.22"
+  }
+}
